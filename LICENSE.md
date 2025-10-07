@@ -2,9 +2,7 @@
 Copyright (c) 2025 Forgotten Private Coalition. All rights reserved.
 
 ## Preamble
-```
 This Forgotten OpenLink License 1.0 (hereinafter — “License”) is designed to regulate the use of resources and source code owned by the Author. It provides open access to materials under strict conditions, including use only via a direct link to the original files, prohibition of commercial use, and protection of copyright. The purpose of this License is to allow legal use of source code and resources for learning, experimentation, and forks, while maintaining control over distribution and modification of the materials.
-```
 
 
 ## 1. Definitions
