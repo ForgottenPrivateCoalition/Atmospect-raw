@@ -5,7 +5,7 @@ Copyright (c) 2025 Forgotten Private Coalition. All rights reserved.
 ```
 This Forgotten OpenLink License 1.0 (hereinafter — “License”) is designed to regulate the use of resources and source code owned by the Author. It provides open access to materials under strict conditions, including use only via a direct link to the original files, prohibition of commercial use, and protection of copyright. The purpose of this License is to allow legal use of source code and resources for learning, experimentation, and forks, while maintaining control over distribution and modification of the materials.
 ```
----
+
 
 ## 1. Definitions
  1. **Author** — the owner of the licensed resources.
@@ -18,7 +18,6 @@ This Forgotten OpenLink License 1.0 (hereinafter — “License”) is designed 
 
  5. **Project** — any software, build, web resource, or other work using the Resources or Source Code.
 
----
 
 ## 2. Granted Rights
  1. The Author retains all exclusive rights to the Resources.
@@ -27,7 +26,6 @@ This Forgotten OpenLink License 1.0 (hereinafter — “License”) is designed 
  
  3. Forking and modifying the Source Code is allowed provided that Section 4 (Attribution) is followed and that the modified code is distributed in open form according to the Author’s instructions.
 
----
 
 ## 3. Prohibitions
 Without prior written permission from the Author, the following are prohibited:
@@ -42,44 +40,36 @@ Without prior written permission from the Author, the following are prohibited:
  
  6. Making Resources under this License private (closed for direct download), except for Source Code and cases where the Author explicitly allows closed distribution of Source Code.
 
----
 
 ## 4. Usage and Attribution
  1. Any legal use (including via direct link) requires explicit attribution to the Author and a link to the Author’s original repository or page. Attribution must be visible in the project README or the relevant user interface where the Resources are used.
  
  2. Using Resources and Source Code is only permitted via a direct link to the original resource from the Author; copying or deploying Resources to third-party storage is prohibited.
 
----
 
 ## 5. Exceptions and Special Cases
  1. The Author may issue written permission for alternative use (including commercial use). Any such permission must be explicitly documented in writing by the Author.
  
  2. External developers may dynamically load Resources from the Author’s original repository (via direct link), provided that resources are not copied to external repositories and are used solely for non-commercial purposes.
 
----
 
 ## 6. Duration and Termination
  1. This License is effective from the moment the resource is published under it.
  
  2. Any violation of this License automatically terminates the rights granted herein. Rights may only be reinstated after remedying the violation and with the Author’s consent.
 
----
 
 ## 7. Liability and Disclaimer
  1. Resources are provided “as-is” without any explicit or implied warranties. The Author is not liable for direct or indirect damages arising from the use of the Resources.
  
  2. Users are responsible for ensuring that the use of Resources complies with local laws and third-party regulations.
 
----
 
 ## 8. Jurisdiction and Dispute Resolution
  1. This License is governed by the law of the country where the Author is registered.
  
  2. All disputes arising from this License must be resolved in the court located at the Author’s place of residence, unless otherwise agreed in writing by the parties.
 
----
 
 ## 9. Contact and Requests
  1. Any requests for permission to distribute, modify, or use Resources or Source Code commercially will be considered individually by the Author.
-
----
