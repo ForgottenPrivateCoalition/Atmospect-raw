@@ -1,0 +1,65 @@
+# ==========================
+# Rust / Cargo
+# ==========================
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Build artifacts
+*.rlib
+*.dSYM
+*.pdb
+*.dll
+*.exe
+*.so
+*.a
+
+#OPS RUST
+/AtmospectLauncher/net/atmdwsvc/target
+
+# ==========================
+# Tauri / Node.js
+# ==========================
+/node_modules/
+/dist/
+/out/
+/build/
+/src-tauri/target/
+/src-tauri/Cargo.lock
+
+# Generated app bundles
+*.app
+*.deb
+*.rpm
+*.msi
+*.dmg
+*.AppImage
+
+# ==========================
+# Logs & temp files
+# ==========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+tauri.conf.json.bak
+*.log
+
+# ==========================
+# OS / Editor junk
+# ==========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# ==========================
+# Environment / Secrets
+# ==========================
+.env
+.env.*
+!.env.example
