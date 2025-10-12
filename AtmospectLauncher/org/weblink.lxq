@@ -157,9 +157,9 @@ Java {
 
 Pictures {
 	ALPHA {
-		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/native.webp"
-		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/medium.webp"
-		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/low.webp"
+		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/ALPHA/native.webp"
+		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/ALPHA/medium.webp"
+		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/ALPHA/low.webp"
 
 		"22n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/ALPHA/native.webp"
 		"22m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/ALPHA/medium.webp"
@@ -209,9 +209,9 @@ Pictures {
 	}
 
 	BETA {
-		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/native.webp"
-		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/medium.webp"
-		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/low.webp"
+		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/BETA/native.webp"
+		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/BETA/medium.webp"
+		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.main/BETA/low.webp"
 
 		"22n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/BETA/native.webp"
 		"22m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/BETA/medium.webp"
