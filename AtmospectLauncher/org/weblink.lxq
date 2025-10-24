@@ -155,108 +155,16 @@ Java {
 	}
 }
 
-Pictures {
+Resources {
 	ALPHA {
-		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/native.webp"
-		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/medium.webp"
-		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/ALPHA/low.webp"
-
-		"22n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/ALPHA/native.webp"
-		"22m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/ALPHA/medium.webp"
-		"22l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/ALPHA/low.webp"
-
-		"21n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/ALPHA/native.webp"
-		"21m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/ALPHA/medium.webp"
-		"21l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/ALPHA/low.webp"
-
-		"20n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/ALPHA/native.webp"
-		"20m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/ALPHA/medium.webp"
-		"20l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/ALPHA/low.webp"
-
-		"19n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/ALPHA/native.webp"
-		"19m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/ALPHA/medium.webp"
-		"19l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/ALPHA/low.webp"
-
-		"18n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/ALPHA/native.webp"
-		"18m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/ALPHA/medium.webp"
-		"18l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/ALPHA/low.webp"
-
-		"17n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/ALPHA/native.webp"
-		"17m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/ALPHA/medium.webp"
-		"17l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/ALPHA/low.webp"
-
-		"16n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/ALPHA/native.webp"
-		"16m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/ALPHA/medium.webp"
-		"16l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/ALPHA/low.webp"
-
-		"15n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/ALPHA/native.webp"
-		"15m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/ALPHA/medium.webp"
-		"15l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/ALPHA/low.webp"
-
-		"14n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/ALPHA/native.webp"
-		"14m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/ALPHA/medium.webp"
-		"14l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/ALPHA/low.webp"
-
-		"13n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/ALPHA/native.webp"
-		"13m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/ALPHA/medium.webp"
-		"13l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/ALPHA/low.webp"
-
-		"12n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/ALPHA/native.webp"
-		"12m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/ALPHA/medium.webp"
-		"12l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/ALPHA/low.webp"
-
-		"Vanilla" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.ui/ALPHA/vanilla.svg"
+		"22n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22a.native.webp"
 	}
 
-	BETA {
-		"nulln" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/native.webp"
-		"nullm" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/medium.webp"
-		"nulll" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.null/BETA/low.webp"
+	SVG {
+		"Vanilla" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/svg/vanilla.svg"
+	}
 
-		"22n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/BETA/native.webp"
-		"22m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/BETA/medium.webp"
-		"22l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/22/BETA/low.webp"
-
-		"21n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/BETA/native.webp"
-		"21m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/BETA/medium.webp"
-		"21l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/21/BETA/low.webp"
-
-		"20n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/BETA/native.webp"
-		"20m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/BETA/medium.webp"
-		"20l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/20/BETA/low.webp"
-
-		"19n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/BETA/native.webp"
-		"19m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/BETA/medium.webp"
-		"19l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/19/BETA/low.webp"
-
-		"18n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/BETA/native.webp"
-		"18m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/BETA/medium.webp"
-		"18l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/18/BETA/low.webp"
-
-		"17n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/BETA/native.webp"
-		"17m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/BETA/medium.webp"
-		"17l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/17/BETA/low.webp"
-
-		"16n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/BETA/native.webp"
-		"16m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/BETA/medium.webp"
-		"16l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/16/BETA/low.webp"
-
-		"15n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/BETA/native.webp"
-		"15m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/BETA/medium.webp"
-		"15l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/15/BETA/low.webp"
-
-		"14n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/BETA/native.webp"
-		"14m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/BETA/medium.webp"
-		"14l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/14/BETA/low.webp"
-
-		"13n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/BETA/native.webp"
-		"13m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/BETA/medium.webp"
-		"13l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/13/BETA/low.webp"
-
-		"12n" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/BETA/native.webp"
-		"12m" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/BETA/medium.webp"
-		"12l" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/12/BETA/low.webp"
-
-		"Vanilla" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/.ui/BETA/vanilla.svg"
+	SVGPlus {
+		"Vanilla" "https://cdn.jsdelivr.net/gh/ForgottenPrivateCoalition/Atmospect-raw@main/AtmospectLauncher/assets/svg/vanilla.svgz"
 	}
 }
