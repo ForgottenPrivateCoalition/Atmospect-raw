@@ -54,7 +54,7 @@ Forge {
 	"1.21.7": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.7-57.0.3/forge-1.21.7-57.0.3-installer.jar",
 	"1.21.8": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.8-58.1.0/forge-1.21.8-58.1.0-installer.jar",
 	"1.21.9": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.1/forge-1.21.9-59.0.1-installer.jar"
-}
+},
 
 NeoForge {
 	"1.20.2": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.2.93/neoforge-20.2.93-installer.jar",
@@ -69,17 +69,17 @@ NeoForge {
 	"1.21.4": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-installer.jar",
 	"1.21.5": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.5.81/neoforge-21.5.81-installer.jar",
 	"1.21.6": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.6.19-beta/neoforge-21.6.19-beta-installer.jar"
-}
+},
 
 Quilt {
 	"url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.12.1/quilt-installer-0.12.1.jar",
 	"versions":["1.14","1.14.1","1.14.2","1.14.3","1.14.4","1.15","1.15.1","1.15.2","1.16","1.16.1","1.16.2","1.16.3","1.16.4","1.16.5","1.17","1.17.1","1.18","1.18.1","1.18.2","1.19","1.19.1","1.19.2","1.19.3","1.19.4","1.20","1.20.1","1.20.2","1.20.3","1.20.4","1.20.5","1.20.6","1.21","1.21.1","1.21.2","1.21.3","1.21.4","1.21.5","1.21.6","1.21.7","1.21.8","1.21.9"]
-}
+},
 
 Fabric {
 	"url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.jar",
 	"versions":["1.14","1.14.1","1.14.2","1.14.3","1.14.4","1.15","1.15.1","1.15.2","1.16","1.16.1","1.16.2","1.16.3","1.16.4","1.16.5","1.17","1.17.1","1.18","1.18.1","1.18.2","1.19","1.19.1","1.19.2","1.19.3","1.19.4","1.20","1.20.1","1.20.2","1.20.3","1.20.4","1.20.5","1.20.6","1.21","1.21.1","1.21.2","1.21.3","1.21.4","1.21.5","1.21.6","1.21.7","1.21.8","1.21.9"]
-}
+},
 
 Broadcast {
 	"Recommendations": {
@@ -119,7 +119,7 @@ Broadcast {
 		"4": "GalactiCraft – A mod introducing space exploration, rockets, planets, lunar missions, new resources, and technology, allowing players to explore the solar system and build space bases.",
 		"5": "Industrial Craft 2 – A mod with industrial machines, energy systems, new technologies, automation, resource processing, and advanced crafting and production possibilities."
 	}
-}
+},
 
 Java {
 	"WindowsMSI": {
@@ -137,7 +137,7 @@ Java {
 		"16": "https://release-assets.githubusercontent.com/github-production-release-asset/372925054/83f88587-a0cd-468c-9f0e-61628a119d6c",
 		"8": "https://release-assets.githubusercontent.com/github-production-release-asset/372924428/77599d3b-9d95-4525-8e0e-46f91b0bd9e1"
 	}
-}
+},
 
 Resources {
 	"Background": {
